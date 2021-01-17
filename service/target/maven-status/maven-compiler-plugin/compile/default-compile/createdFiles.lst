@@ -1,0 +1,6 @@
+kry\test\service\configuration\WebConfig.class
+kry\test\service\service\ServiceService.class
+kry\test\service\model\Service.class
+kry\test\service\ServiceApplication.class
+kry\test\service\controller\ServiceController.class
+kry\test\service\repository\ServiceRepository.class
